@@ -1,0 +1,22 @@
+.submit-container {
+    text-align: center;
+    align-items: center;
+}
+
+.rating-background {
+    color: hsla(25, 97%, 53%, 0.8);
+    background-color: hsla(216, 12%, 54%, 0.1);
+    border-radius: 30px;
+    margin-top: 20px;
+    width: 225px;
+    font-size: 15px;
+}
+
+.rating-text {
+    margin: 8px;
+}
+
+.title-ty {
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
