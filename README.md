@@ -2,7 +2,7 @@
 
 This is my attempt at the front-end mentor challenge for the interactive rating component :) 
 
-![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Interactive rating component coding challenge]((https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI))
 
 ## Welcome! 👋
 
