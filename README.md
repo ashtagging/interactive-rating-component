@@ -2,7 +2,8 @@
 
 This is my attempt at the front-end mentor challenge for the interactive rating component :) 
 
-[Interactive rating component coding challenge]([https://markdownlivepreview.com/](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI))
+[Interactive rating component coding challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
